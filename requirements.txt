@@ -1,3 +1,4 @@
 aiogram==2.25.1
 pyrogram==2.0.106
-aiohttp==3.8.6  # Изменено с 3.9.5 на 3.8.6
+aiohttp==3.8.6
+Flask==2.3.3
